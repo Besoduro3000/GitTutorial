@@ -1,2 +1,2 @@
 # GitTutorial
-#tutorial en claseasdasdsa
+#tutorial en clase: Santiago Melo y Daniel Pedreros
